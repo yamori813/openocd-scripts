@@ -3,7 +3,7 @@ Steps to load u-boot via JTAG
 == Note ==
 It's suggested to use OpenOCD 0.12.0 or later version.
 
-1. Connect to MT7988 board using mt7621.cfg
+1. Connect to MT7621 board using mt7621.cfg
 
 2. Halt the target
 	> halt
